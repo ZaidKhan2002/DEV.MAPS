@@ -39,16 +39,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This project is mainly focused on the increment of outreach of development support for new developers who may find it difficult initially to get a grab of their desired track which this web-app attempts to tackle.<br>
+Made on Front-end technologies it has been made to be less obtrusive so that users can navigate through the web-app easily. All tracks have been outlined in a constructive so that people can have a collection of resources on their fingertips.<br>
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
@@ -64,16 +57,19 @@ Here we have built this project with the following technologies:
 <!-- Purpose -->
 ## Purpose
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The main purpose of this web-app is to make the initial get-go for new developers easier and to provide resources that are relevant to the particular domain of their interest. 
+This will indeed make the on-boarding experience for many new developers much more smoother and increase their desire to learn more.
 
 
 <!-- Future Plans -->
 ## Future Plans
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The future plans of expansion will be including
+<ul><li>More Road maps</li>
+  <li>Sign-in and Sign-up</li>
+  <li>Newsletters</li>
+  <li>Building an online community</li>
+</ul>  
 
 
 <!-- CONTRIBUTING -->
@@ -82,19 +78,19 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+2. Clone the repository
+3. Create a branch
+4. Make necessary changes and commit those changes
+5. Push changes to GitHub
+6. Open a pull request
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Mohammed Zaid Khan - [LinkedIn](https://www.linkedin.com/in/zaid-khan-a342231b5/)<br>
+Anirudh Eyyani - [LinkedIn](https://www.linkedin.com/in/anirudh-eyyani-3036671ba/)<br>
+Hemang Ranjan - [LinkedIn](https://www.linkedin.com/in/hemang-ranjan-789384134/)<br>
 
 
 <!-- ACKNOWLEDGEMENTS -->
