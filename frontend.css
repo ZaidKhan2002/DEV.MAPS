@@ -114,7 +114,7 @@
 @media only screen and (max-width: 767px) {
   .timeline-item {
     align-self: baseline !important;
-    width: 100%;
+    width: 50%;
     padding: 0 30px 150px 80px;
   }
   .timeline-item:before {
